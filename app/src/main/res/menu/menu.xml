@@ -2,13 +2,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/mischy"
-        android:title="@string/Mischa"
-        android:icon="@mipmap/ic_mischer_round"
-        android:tooltipText="@string/Mischa"
-        app:showAsAction="never"
-        />
-    <item
         android:id="@+id/AnLeit"
         android:title="@string/AnLeit"
         android:icon="@mipmap/ic_mischer_round"

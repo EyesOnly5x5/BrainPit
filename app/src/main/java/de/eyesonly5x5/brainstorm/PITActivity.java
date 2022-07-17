@@ -89,6 +89,7 @@ public class PITActivity extends AppCompatActivity {
             button.getLayoutParams().height *= daten.getMetrics().getFaktor();
             daten.addImgButton(button);
         }
+        daten.Mischer();
     }
 
     @Override
@@ -101,9 +102,6 @@ public class PITActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item){
         switch (item.getItemId()){
-            case R.id.mischy:
-                daten.Mischer();
-                return( true );
             case R.id.AnLeit:
                 daten.Anleitung( this, R.string.AnleitPIT );
                 return( true );
