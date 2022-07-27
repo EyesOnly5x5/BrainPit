@@ -1,4 +1,4 @@
-package de.eyesonly5x5.brainstorm;
+package de.eyesonly5x5.brainpit;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -45,7 +45,7 @@ public class PITActivity extends AppCompatActivity {
         });
 
         for( int i = 1; i <= (daten.getAnzahl()*daten.getAnzahl()); i++ ) {
-            daten.addViewButIDs( findViewById( getResources().getIdentifier("i" + i, "id", "de.eyesonly5x5.brainstorm")) );
+            daten.addViewButIDs( findViewById( getResources().getIdentifier("i" + i, "id", "de.eyesonly5x5.brainpit")) );
         }
 
         for(int id : BUTTON_IDS) {

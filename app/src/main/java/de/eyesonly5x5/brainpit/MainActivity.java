@@ -1,4 +1,4 @@
-package de.eyesonly5x5.brainstorm;
+package de.eyesonly5x5.brainpit;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;

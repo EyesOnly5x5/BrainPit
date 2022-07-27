@@ -1,4 +1,4 @@
-package de.eyesonly5x5.brainstorm;
+package de.eyesonly5x5.brainpit;
 
 import android.annotation.SuppressLint;
 import android.app.Dialog;
@@ -251,7 +251,7 @@ public class Globals  extends ListActivity {
         String dat = (MemoryPic == 0) ? "eye" : "face";
         for (int i = 1; i <= Anzahl; i++) {
             for (int j = 1; j <= Anzahl; j++) {
-                MemoryPics.add(myRes.getIdentifier(dat +"_"+ i +"_"+ j, "drawable", "de.eyesonly5x5.brainstorm"));
+                MemoryPics.add(myRes.getIdentifier(dat +"_"+ i +"_"+ j, "drawable", "de.eyesonly5x5.brainpit"));
             }
         }
         maxFelder = Anzahl*Anzahl;
