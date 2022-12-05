@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
-    tools:context=".PITActivity">
+    tools:context="io.github.eyesonly5x5.PITActivity">
 
     <TextView
         android:id="@+id/Kopf"

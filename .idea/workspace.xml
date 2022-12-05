@@ -19,7 +19,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="" />
+    <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainpit/Globals.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/Globals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainpit/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainpit/MischButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/MischButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainpit/MyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/MyDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainpit/PITActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/PITActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pit.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,13 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629726477167</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Sudo-Kuh Fertig, incl. Save-Load">
-      <created>1634044797897</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1634044797897</updated>
     </task>
     <task id="LOCAL-00054" summary="Sudo-Kuh Fertig, incl. Save-Load">
       <created>1634044949214</created>
@@ -568,12 +572,18 @@
       <option name="project" value="LOCAL" />
       <updated>1667292487435</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="License hinzugefügt.">
+      <created>1667298824693</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1667298824693</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Start Memory 6." />
     <MESSAGE value="Start Memory Fertig." />
     <MESSAGE value="Start xXx Start." />
     <MESSAGE value="Start Pos-I-Tron Stufe 1." />
@@ -598,6 +608,7 @@
     <MESSAGE value="BrainPit ausgelagert." />
     <MESSAGE value="Packet Brainstorm nach BrainPit" />
     <MESSAGE value="ic_launcher* logos angebasst." />
-    <option name="LAST_COMMIT_MESSAGE" value="ic_launcher* logos angebasst." />
+    <MESSAGE value="License hinzugefügt." />
+    <option name="LAST_COMMIT_MESSAGE" value="License hinzugefügt." />
   </component>
 </project>
